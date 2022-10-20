@@ -1,0 +1,77 @@
+From acd9273d211dc4e6860d34a8396b750d484d40a9 Mon Sep 17 00:00:00 2001
+From: Stewart Lord <stewart.lord@rdbrck.com>
+Date: Mon, 19 Mar 2018 10:21:06 -0700
+Subject: [PATCH] Bump version to 2.3.2
+
+---
+ LICENSE      | 2 +-
+ README.md    | 2 +-
+ bower.json   | 2 +-
+ identicon.js | 4 ++--
+ package.json | 2 +-
+ 5 files changed, 6 insertions(+), 6 deletions(-)
+
+diff --git a/LICENSE b/LICENSE
+index a7187a7..20890ee 100644
+--- a/LICENSE
++++ b/LICENSE
+@@ -1,4 +1,4 @@
+-Copyright (c) 2017, Stewart Lord
++Copyright (c) 2018, Stewart Lord
+ All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+diff --git a/README.md b/README.md
+index 09a3c37..59deac5 100644
+--- a/README.md
++++ b/README.md
+@@ -69,5 +69,5 @@ document.write('<img width=420 height=420 src="data:image/svg+xml;base64,' + dat
+ 
+ [PNG output requires PNGLib](http://www.xarg.org/download/pnglib.js)
+ 
+-Copyright 2017, [Stewart Lord](http://twitter.com/stewartlord)
++Copyright 2018, [Stewart Lord](https://github.com/stewartlord)
+ Released under the [BSD license](http://www.opensource.org/licenses/bsd-license.php)
+diff --git a/bower.json b/bower.json
+index 749e4d1..8b4d31c 100644
+--- a/bower.json
++++ b/bower.json
+@@ -4,7 +4,7 @@
+     "pnglib.js",
+     "identicon.js"
+   ],
+-  "version": "2.3.1",
++  "version": "2.3.2",
+   "homepage": "https://github.com/stewartlord/identicon.js",
+   "authors": [
+     "stewartlord"
+diff --git a/identicon.js b/identicon.js
+index 655dadd..08f68ea 100644
+--- a/identicon.js
++++ b/identicon.js
+@@ -1,11 +1,11 @@
+ /**
+- * Identicon.js 2.3.1
++ * Identicon.js 2.3.2
+  * http://github.com/stewartlord/identicon.js
+  *
+  * PNGLib required for PNG output
+  * http://www.xarg.org/download/pnglib.js
+  *
+- * Copyright 2017, Stewart Lord
++ * Copyright 2018, Stewart Lord
+  * Released under the BSD license
+  * http://www.opensource.org/licenses/bsd-license.php
+  */
+diff --git a/package.json b/package.json
+index e34aff9..98ede39 100644
+--- a/package.json
++++ b/package.json
+@@ -1,6 +1,6 @@
+ {
+   "name": "identicon.js",
+-  "version": "2.3.1",
++  "version": "2.3.2",
+   "description": "GitHub-style identicons as PNGs or SVGs in JS.",
+   "main": "identicon.js",
+   "repository": {

@@ -1,0 +1,22 @@
+From 5f1d8025a8fdac561999aeb406919ee26cb45a89 Mon Sep 17 00:00:00 2001
+From: hai-ko <mail@heiko-burkhardt.de>
+Date: Tue, 20 Jun 2017 11:53:45 +0200
+Subject: [PATCH] changed octal encoding to hex encoding
+
+---
+ pnglib.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/pnglib.js b/pnglib.js
+index 45a2c72..17c03b6 100644
+--- a/pnglib.js
++++ b/pnglib.js
+@@ -201,7 +201,7 @@
+ 			crc32(this.buffer, this.iend_offs, this.iend_size);
+ 
+ 			// convert PNG to string
+-			return "\211PNG\r\n\032\n"+this.buffer.join('');
++			return "\x89PNG\r\n\x1a\n"+this.buffer.join('');
+ 		}
+ 	}
+ 

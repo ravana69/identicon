@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/stewartlord/identicon.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stewartlord/identicon.js/releases.atom"/>
+  <title>Release notes from identicon.js</title>
+  <updated>2018-09-20T15:48:34Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/v2.3.3</id>
+    <updated>2018-09-20T15:54:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/v2.3.3"/>
+    <title>Actually fix base64 encoding on Node</title>
+    <content type="html">&lt;p&gt;The previous fix could still result in a &quot;btoa is not defined&quot; error.&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/2.3.2</id>
+    <updated>2018-03-19T17:24:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/2.3.2"/>
+    <title>Fix base64 encoding on Node</title>
+    <content>No content.</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/2.3.1</id>
+    <updated>2017-07-11T15:00:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/2.3.1"/>
+    <title>Minor syntax fixes</title>
+    <content>No content.</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/2.3.0</id>
+    <updated>2017-06-25T17:05:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/2.3.0"/>
+    <title>New saturation and brightness options</title>
+    <content type="html">&lt;p&gt;You can now control saturation and brightness of the derived foreground color from options. Minor change to pnglib.js to support strict mode.&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/2.2.1</id>
+    <updated>2017-05-01T13:32:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/2.2.1"/>
+    <title>Hash parameter is now required</title>
+    <content type="html">&lt;p&gt;The hash parameter is no longer optional.&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/2.1.1</id>
+    <updated>2017-04-30T01:08:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/2.1.1"/>
+    <title>Updated package description</title>
+    <content>No content.</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/v2.1.0</id>
+    <updated>2017-01-30T17:57:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/v2.1.0"/>
+    <title>Raw output option for smaller SVGs</title>
+    <content type="html">&lt;p&gt;Minor new feature allows rendering unencoded images. In the case of SVG this can be used to output smaller plain-text data URIs (the default base64 encoding adds 33%).&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/v2.0.0</id>
+    <updated>2016-12-13T07:26:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/v2.0.0"/>
+    <title>SVG Support!</title>
+    <content type="html">&lt;p&gt;Adds support for SVG output while preserving backwards compatibility. Existing usage should be unchanged. To generate SVGs, pass &lt;code&gt;format: &#39;svg&#39;&lt;/code&gt; in options.&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/13316291/v1.3.0</id>
+    <updated>2016-12-13T07:11:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stewartlord/identicon.js/releases/tag/v1.3.0"/>
+    <title>New foreground color option</title>
+    <content type="html">&lt;p&gt;Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; href=&quot;https://github.com/stewartlord/identicon.js/pull/22&quot;&gt;#22&lt;/a&gt; from buildbreakdo/patch-1&lt;/p&gt;
+
+&lt;p&gt;Update README.md -- add installation section&lt;/p&gt;</content>
+    <author>
+      <name>stewartlord</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=60&amp;v=4"/>
+  </entry>
+</feed>

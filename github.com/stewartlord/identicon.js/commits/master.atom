@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/stewartlord/identicon.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stewartlord/identicon.js/commits/master.atom"/>
+  <title>Recent Commits to identicon.js:master</title>
+  <updated>2022-03-24T17:39:12Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7063ae16142fd39d3563699b9af2dc321326ff52</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/7063ae16142fd39d3563699b9af2dc321326ff52"/>
+    <title>
+        Improve README.md and demo.html notes re: image quality
+    </title>
+    <updated>2022-03-24T17:39:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve README.md and demo.html notes re: image quality&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4fad7cafec1b7a4d896015e084e861625ef5d64f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/4fad7cafec1b7a4d896015e084e861625ef5d64f"/>
+    <title>
+        Bump version to 2.3.3
+    </title>
+    <updated>2018-09-20T15:48:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.3.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9db16af63c0ac9cb400b6241d6450b6ae2d30072</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/9db16af63c0ac9cb400b6241d6450b6ae2d30072"/>
+    <title>
+        Yoda style
+    </title>
+    <updated>2018-09-20T15:44:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/810011?s=30&amp;v=4"/>
+    <author>
+      <name>h0x91b</name>
+      <uri>https://github.com/h0x91b</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Yoda style&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f9983d70d92c419cda8644d114d835523fe65d45</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/f9983d70d92c419cda8644d114d835523fe65d45"/>
+    <title>
+        Fix exception &quot;btoa is not defined&quot;
+    </title>
+    <updated>2018-09-20T15:44:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/810011?s=30&amp;v=4"/>
+    <author>
+      <name>h0x91b</name>
+      <uri>https://github.com/h0x91b</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix exception &amp;quot;btoa is not defined&amp;quot;
+
+btoa is not defined
+    at Svg.getBase64 (/Users/ars/src/***/node_modules/identicon.js/identicon.js:190:13)
+    at Identicon.toString (/Users/ars/src/***/node_modules/identicon.js/identicon.js:133:38)
+    at Object.generateIcon (/Users/ars/src/***/backend/lib/helpers.js:88:46)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/acd9273d211dc4e6860d34a8396b750d484d40a9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/acd9273d211dc4e6860d34a8396b750d484d40a9"/>
+    <title>
+        Bump version to 2.3.2
+    </title>
+    <updated>2018-03-19T17:21:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.3.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/79043eabeeca800e3834c014745d9a42c5e9b4c5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/79043eabeeca800e3834c014745d9a42c5e9b4c5"/>
+    <title>
+        More compatible fix.
+    </title>
+    <updated>2018-03-19T17:15:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;More compatible fix.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0a1383221aff9ff107cd464d3c8cfa0a7da0935c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/0a1383221aff9ff107cd464d3c8cfa0a7da0935c"/>
+    <title>
+        If btoa() is unavailble use Buffer instead.
+    </title>
+    <updated>2018-03-19T17:15:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;If btoa() is unavailble use Buffer instead.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4904e7d48eec01ce2ca2f0d4edb6f38c5b06fd91</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/4904e7d48eec01ce2ca2f0d4edb6f38c5b06fd91"/>
+    <title>
+        Bump version
+    </title>
+    <updated>2017-07-11T14:58:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/98973cb4f99db1f4fe14ce2df112ee270de8e5ad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/98973cb4f99db1f4fe14ce2df112ee270de8e5ad"/>
+    <title>
+        syntax typo
+    </title>
+    <updated>2017-07-11T14:55:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2500326?s=30&amp;v=4"/>
+    <author>
+      <name>LucidityDesign</name>
+      <uri>https://github.com/LucidityDesign</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;syntax typo
+
+`bg` is not defined because of the semicolon&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/096bda82e5a77246ea2f8e6cad14a14df4ce0242</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/096bda82e5a77246ea2f8e6cad14a14df4ce0242"/>
+    <title>
+        fix demo in readme
+    </title>
+    <updated>2017-07-11T14:54:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2500326?s=30&amp;v=4"/>
+    <author>
+      <name>LucidityDesign</name>
+      <uri>https://github.com/LucidityDesign</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix demo in readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/559a1f40fe811f74a58a3b8ccb3af9ce756dc88e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/559a1f40fe811f74a58a3b8ccb3af9ce756dc88e"/>
+    <title>
+        Update README to document the new options. Fix erroneous comment.
+    </title>
+    <updated>2017-06-25T17:03:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README to document the new options. Fix erroneous comment.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a06ecf68b26303685ea8cee217898508947f9309</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/a06ecf68b26303685ea8cee217898508947f9309"/>
+    <title>
+        Bump version to 2.3.0
+    </title>
+    <updated>2017-06-25T16:52:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.3.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dc90e0314391523948350f650c35d8ced352a675</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/dc90e0314391523948350f650c35d8ced352a675"/>
+    <title>
+        Update identicon.js
+    </title>
+    <updated>2017-06-21T05:06:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3770453?s=30&amp;v=4"/>
+    <author>
+      <name>akhra</name>
+      <uri>https://github.com/akhra</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update identicon.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e80c36c5ee03840bdae82b8b72716475a89e7d94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/e80c36c5ee03840bdae82b8b72716475a89e7d94"/>
+    <title>
+        Add saturation and brightness to options
+    </title>
+    <updated>2017-06-21T05:06:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3770453?s=30&amp;v=4"/>
+    <author>
+      <name>akhra</name>
+      <uri>https://github.com/akhra</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add saturation and brightness to options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5f1d8025a8fdac561999aeb406919ee26cb45a89</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/5f1d8025a8fdac561999aeb406919ee26cb45a89"/>
+    <title>
+        changed octal encoding to hex encoding
+    </title>
+    <updated>2017-06-21T05:05:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12855655?s=30&amp;v=4"/>
+    <author>
+      <name>hai-ko</name>
+      <uri>https://github.com/hai-ko</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;changed octal encoding to hex encoding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1bf8eb44fd520f2be8aa6ac7a4a72420edd04bb0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/1bf8eb44fd520f2be8aa6ac7a4a72420edd04bb0"/>
+    <title>
+        Cleanup default handling for margin after my previous sloppy work.
+    </title>
+    <updated>2017-05-05T17:09:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cleanup default handling for margin after my previous sloppy work.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c89c1793d2240112a859b086abb76e38d46f5336</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/c89c1793d2240112a859b086abb76e38d46f5336"/>
+    <title>
+        Crop screenshot tighter.
+    </title>
+    <updated>2017-05-03T17:23:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Crop screenshot tighter.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a82081d24c006d9a388bc004d82a13632df9ac8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/5a82081d24c006d9a388bc004d82a13632df9ac8"/>
+    <title>
+        Add a pretty screenshot!
+    </title>
+    <updated>2017-05-03T17:13:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a pretty screenshot!&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e6933b7c443e6a511cfcfe6774fa5570cf6c2086</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/e6933b7c443e6a511cfcfe6774fa5570cf6c2086"/>
+    <title>
+        Update another copyright year.
+    </title>
+    <updated>2017-05-01T13:29:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update another copyright year.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/79591e96d5359b8e6afad7793bbd5edf81d5b525</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stewartlord/identicon.js/commit/79591e96d5359b8e6afad7793bbd5edf81d5b525"/>
+    <title>
+        Update docs to reflect that hash is no longer optional (#36)
+    </title>
+    <updated>2017-05-01T13:26:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/218503?s=30&amp;v=4"/>
+    <author>
+      <name>stewartlord</name>
+      <uri>https://github.com/stewartlord</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update docs to reflect that hash is no longer optional (#36)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

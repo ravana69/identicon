@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.671245352.1666262330
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_device_id	93d5c1c852d15452e2933c9bc57babfc
+.npmjs.com	TRUE	/	FALSE	1999999999	__cfruid	e7ccb305a87fe2545bb1973ea155479adb16eeea-1666262377
+www.npmjs.com	TRUE	/	FALSE	1999999999	SameSite	None
+.radar.cloudflare.com	TRUE	/	FALSE	1999999999	__cf_bm	GS4gTZcqNtQwz9_UdzKp4G4Wy6g8EHdN6D4tiqDGoq4-1666262726-0-AXkjvf9uq+Y52aKNY70Uzpmfsfft8nJeRdwhAikc6VqWlrn19uoF4y/osVo5D2VbQUAUn/x+GQjjAXXP/6CgeS4=
+api.radar.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	None
+.npmjs.com	TRUE	/	FALSE	1999999999	__cf_bm	8Zz5Ul8Ro_TzZWCeNt.LU4iPkJ2xbm4v4wawn2FAw2U-1666262728-0-Abyg+0mT0wVTIzXhxsSrm0lDbSsV8C91p169hFLInLPAZ8SXdEnr8idEREVFggCe2/zTw273WEdZYHodmSFoSUY=
+npmjs.com	TRUE	/	FALSE	1999999999	SameSite	None
+.runkit.com	TRUE	/	FALSE	1999999999	session	s%3A635126e140278700103c0e34.vLiry%2BG6MRH0EY9OaSWG5wiJJ32qKfk7WsBcGNNwdKI
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	dQEIQavZA%2BVoUSSY%2B5kNu78vGGqK3rK3c1q5dPQSiqqDg3okj7uil77ILJOh%2FqMj%2FM3JmnsSKViths2swfIL7Zm7CtRmtGR%2BI0yHI92%2Bnij7yBRhuzFdyk6er6dEnYy%2BkPe66j6u1jfRYXkevUiV7zuvZvpKxDY1WBXOAsrf8F4IniEDZm6rau5UZdQyqVR0VDEwEuk5vwVhqxV0b9g6lp3T4xW72gYQBpRNylQbC8xsam8rLPb%2BeMqrtzPAW1LTUojzFMLb4wXK%2FAaqd07xBA%3D%3D--MxIz4UOVUnY2UtFG--TqsjQTsqRyOuaPdeMaXDig%3D%3D
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -1,0 +1,47 @@
+From 4fad7cafec1b7a4d896015e084e861625ef5d64f Mon Sep 17 00:00:00 2001
+From: Stewart Lord <stew@offbynone.com>
+Date: Thu, 20 Sep 2018 08:48:34 -0700
+Subject: [PATCH] Bump version to 2.3.3
+
+---
+ bower.json   | 2 +-
+ identicon.js | 2 +-
+ package.json | 2 +-
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/bower.json b/bower.json
+index 8b4d31c..60e9769 100644
+--- a/bower.json
++++ b/bower.json
+@@ -4,7 +4,7 @@
+     "pnglib.js",
+     "identicon.js"
+   ],
+-  "version": "2.3.2",
++  "version": "2.3.3",
+   "homepage": "https://github.com/stewartlord/identicon.js",
+   "authors": [
+     "stewartlord"
+diff --git a/identicon.js b/identicon.js
+index f56a942..cd351cc 100644
+--- a/identicon.js
++++ b/identicon.js
+@@ -1,5 +1,5 @@
+ /**
+- * Identicon.js 2.3.2
++ * Identicon.js 2.3.3
+  * http://github.com/stewartlord/identicon.js
+  *
+  * PNGLib required for PNG output
+diff --git a/package.json b/package.json
+index 98ede39..fb069fe 100644
+--- a/package.json
++++ b/package.json
+@@ -1,6 +1,6 @@
+ {
+   "name": "identicon.js",
+-  "version": "2.3.2",
++  "version": "2.3.3",
+   "description": "GitHub-style identicons as PNGs or SVGs in JS.",
+   "main": "identicon.js",
+   "repository": {
